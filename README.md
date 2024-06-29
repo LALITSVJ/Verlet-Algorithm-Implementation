@@ -8,5 +8,5 @@ In this project (Lab assignment), Verlet algorithm has been implemented for a in
 Problem Statement: A container is filled with an inert gas having 'n' number of molecules. Task is to find the position and velocity of those molecules after time interval 't' using Verlet algorithm. Print the position and velocity matrices and plot position and velocity graphs.
 
 Attachments:
-Code: source.py
+Code: source.py, 
 Necessary theory and formulas: Chapter_4_Lab
